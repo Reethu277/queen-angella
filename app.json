@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ZIM_CODE": {
+        "WIA_CODE": {
             "description": "Asena session changed! Type your Angella code here.",
             "required": true
         },

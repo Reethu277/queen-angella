@@ -30,7 +30,7 @@ WhatsApp Bot
 
 ## `SCAN QR AND DEPOLY WIA BOT`
 
-[CLICK HERE TO SCAN](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
+"[CLICK HERE TO SCAN]"(https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
 
 
 

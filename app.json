@@ -1,11 +1,7 @@
 {
     "name": "WIA-BOT",
     "description": "WIA-BOT IS ONLINE BROH",
-    "logo": "https://i.imgur.com/wvTMw09.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/DripsMemes/queen-angella/Reethu277",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "logo": "https://i.imgur.com/wvTMw0,
     "stack": "container",
     "env": {
         "WIA_CODE": {

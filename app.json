@@ -67,7 +67,7 @@
             "value": "MADE BY WIA {CHANGE THIS}"
         },
         "FULL_EVA": {
-            "description": "Turn your account into a chatbot!",
+            "description": "TURN YOUR BOT INTO CHAT BOT!",
             "required": true,
             "value": "false"
         },

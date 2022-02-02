@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Angella working!')
+            chalk.green.bold('✅ WIA BOT IS WORKING!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*WIA BOT STARTED*', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Angella Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*WIA BOT STARTED*', MessageType.text);
                 }
             }
         }

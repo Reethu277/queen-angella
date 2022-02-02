@@ -10,7 +10,7 @@
   <a href="<img src="https://i.imgur.com/Iag22tM.jpeg
 WhatsApp Bot
 
-[![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DripsMemes/queen-angella)
+[![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DripsMemes/WIA)
 
 # ```WIA BOT```
 <p align="center">

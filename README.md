@@ -10,8 +10,8 @@
   <a href="<img src="https://i.imgur.com/Iag22tM.jpeg
 WhatsApp Bot
 
-[![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/wia-bot.git)
-
+[![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)]
+https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DripsMemes/queen-angella)
 # ```WIA BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
